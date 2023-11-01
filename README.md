@@ -1,7 +1,8 @@
 # sharaf-DBdesign
 
+# Design and Implementation of Relational Database System for Greenspot Grocer
 ## Introduction
-In this project, I will use my database design and development skills to help reorganize spreadsheet data into a database that supports an online grocery business as they expand their offerings.
+In this project, I used my database design and development skills to help reorganize spreadsheet data into a database that supports an online grocery business as they expand their offerings.
 ### Project Scenario
 Greenspot Grocer is a (fictional) small, family-owned online grocery store that is growing rapidly and planning a major expansion. They are currently storing their product data in a spreadsheet format that has become unwieldy and will soon be unable to accommodate their growing inventory. 
 They have requested me as a data analyst, to examine their current data and design a relational database that will provide the ability to organize and store current data, while providing scalability as the business expands its product offerings. 
